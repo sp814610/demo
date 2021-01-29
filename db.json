@@ -8,6 +8,35 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "chunks": [
+    {
+        "id": 1139,
+        "sizingSummary": {
+            "sizingSummaryType": 2,
+            "data": {
+              "weightedAvgSizeinAFPEs": 549,
+	            "deployment": {
+		            "name": "Dep",
+		            "value": 0.525
+	            },
+	            "technicalGovernance": {
+		            "name": "TGov",
+		            "value": 1051
+	            }
+	            "otherDrivers": {
+		            "fixedValueOf1": {
+			          "name": "Fixed",
+			          "value": 1
+		          },
+		          "projectSize": {
+			          "name": "PSize",
+			          "value": 2000
+		          }
+	          }
+          }
+        }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
