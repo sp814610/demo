@@ -22,16 +22,16 @@
 	            "technicalGovernance": {
 		            "name": "TGov",
 		            "value": 1051
-	            }
+	            },
 	            "otherDrivers": {
 		            "fixedValueOf1": {
 			          "name": "Fixed",
 			          "value": 1
-		          },
-		          "projectSize": {
+		            },
+		            "projectSize": {
 			          "name": "PSize",
 			          "value": 2000
-		          }
+		            }
 	          }
           }
         }
